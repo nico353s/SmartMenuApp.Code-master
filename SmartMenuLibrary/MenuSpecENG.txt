@@ -1,0 +1,7 @@
+﻿My fantastic Menu
+(Press Menu number 0 to exit)
+Do This;DoThis
+Do That;DoThat
+Do Something;DoSomething
+Get the Answer to Life, the Universe and Everything;GetTheAnswerToLifeTheUniverseAndEverything
+Gift to Allan;GaveTilAllan
